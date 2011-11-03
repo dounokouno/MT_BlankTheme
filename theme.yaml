@@ -1,0 +1,32 @@
+label: MTBlankTheme
+name: MTBlankTheme
+id: mtblanktheme
+class: both
+description: MT5用のブランクテーマです。テンプレートファイルは無し、システムテンプレートはポップアップ画像以外は空です。ウィジェットも無しです。
+thumbnail_file: thumb.gif
+thumbnail_file_medium: thumb.gif
+thumbnail_file_small: thumb.gif
+author_link: http://github.com/MTBlankTheme
+author_name: TAGAWA Takao
+version: '1.0'
+elements: 
+    template_set: 
+        component: ~
+        importer: template_set
+        data: 
+            base_path: templates
+            label: exported_template set
+            templates: 
+                system: 
+                    comment_listing: 
+                        label: コメント一覧
+                    comment_preview: 
+                        label: コメントプレビュー
+                    comment_response: 
+                        label: コメント完了
+                    dynamic_error: 
+                        label: ダイナミックパブリッシングエラー
+                    popup_image: 
+                        label: ポップアップ画像
+                    search_results: 
+                        label: 検索結果
