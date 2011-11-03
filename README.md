@@ -14,7 +14,7 @@ Movable Type 5（MT5）用のブランクテーマです。
 
 ##ライセンス
 
-MIT license
+GPLv2 license
 
 ##使い方
 
