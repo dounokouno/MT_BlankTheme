@@ -18,10 +18,15 @@ MIT license
 
 ##使い方
 
-下記ディレクトリに置いてください。  
-［管理画面］->［デザイン］->［テーマ］から当テーマを選択できるようになります。
+MTBlankTheme ディレクトリを下記のように設置してください。  
+［管理画面］→［デザイン］→［テーマ］から MTBlankTheme を選択できるようになります。
 
-    MTインストールディレクトリ/themes/
+    + MTインストールディレクトリ/
+        + themes/
+            + MTBlankTheme/
+                + theme.yaml
+                + thumb.gif
+                + templates/
 
 ##お問い合わせ
 
