@@ -18,12 +18,12 @@ GPLv2 license
 
 ##使い方
 
-MTBlankTheme ディレクトリを下記のように設置してください。  
-［管理画面］→［デザイン］→［テーマ］から MTBlankTheme を選択できるようになります。
+MT_BlankTheme ディレクトリを下記のように設置してください。  
+［管理画面］→［デザイン］→［テーマ］から MT_BlankTheme を選択できるようになります。
 
     + MTインストールディレクトリ/
         + themes/
-            + MTBlankTheme/
+            + MT_BlankTheme/
                 + theme.yaml
                 + thumb.gif
                 + templates/
