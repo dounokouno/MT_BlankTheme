@@ -25,7 +25,6 @@ MT_BlankTheme ディレクトリを下記のように設置してください。
         + themes/
             + MT_BlankTheme/
                 + theme.yaml
-                + thumb.gif
                 + templates/
 
 ##お問い合わせ
