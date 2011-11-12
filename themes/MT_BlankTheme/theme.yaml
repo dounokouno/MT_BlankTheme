@@ -2,7 +2,7 @@ label: MT_BlankTheme
 name: MT_BlankTheme
 id: mtblanktheme
 class: both
-description: MT5用のブランクテーマです。テンプレートファイルは無し、システムテンプレートはポップアップ画像だけ。ウィジェットも無しです。
+description: MT5用のブランクテーマです。テンプレートファイルは無し、システムテンプレートはポップアップ画像以外は空です。ウィジェットも無しです。
 author_link: http://github.com/MT_BlankTheme
 author_name: TAGAWA Takao
 version: '1.0'
@@ -15,5 +15,15 @@ elements:
             label: exported_template set
             templates: 
                 system: 
+                    comment_listing: 
+                        label: コメント一覧
+                    comment_preview: 
+                        label: コメントプレビュー
+                    comment_response: 
+                        label: コメント完了
+                    dynamic_error: 
+                        label: ダイナミックパブリッシングエラー
                     popup_image: 
                         label: ポップアップ画像
+                    search_results: 
+                        label: 検索結果
